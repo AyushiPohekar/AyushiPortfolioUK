@@ -38,6 +38,16 @@ export const products = [
       backendlink:"https://github.com/AyushiPohekar/EcommerceBackend"
     },
     
+    {
+      id: 5,
+      img: "/images/EasyTransport.jpg",
+      title:"Easy Transport",
+      description:"A MERN stack based app in which a user can login as a manufacturer or transporter.Manufacture can send messages to transporter and Transporter can reply to it.",
+      demo: "https://647c025cc6223162cd4529f7--harmonious-seahorse-f7c126.netlify.app/",
+      frontendlink:"https://github.com/AyushiPohekar/webdashboard",
+      backendlink:"https://github.com/AyushiPohekar/WebDashboardBackend"
+    },
+    
    
   ];
 
