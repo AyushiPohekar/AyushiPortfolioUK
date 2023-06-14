@@ -43,7 +43,7 @@ const Intro = () => {
           <div>
             <a
               className="i-btn"
-              href="https://drive.google.com/file/d/10f4eA3wBriXc8nTb8JgpAhXaEeuLJgiL/view?usp=sharing"
+              href="https://drive.google.com/file/d/1HzGovie1FICqvHgaeQdzmryzfJWm149R/view?usp=sharing"
              
               target="_blank"
             >
