@@ -6,7 +6,7 @@ export const products = [
       img: "/images/Untitled.jpg",
       title:"To-Do App",
       description:"A MERN stack To-Do App demonstrating use of react-redux",
-      demo: "https://643ce0b9a6639305cd48b15b--tiny-manatee-13aed8.netlify.app/",
+      demo: "https://mellifluous-melomakarona-7193e5.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/todoapp",
       backendlink:"https://github.com/AyushiPohekar/todoappBackend"
     },
@@ -15,7 +15,7 @@ export const products = [
       img: "/images/blogapp.jpg",
       title:"Travel-Diaries",
       description:"A MERN Stack app that permits user to create,edit,delete the posts.Every user or non users can view all posts.",
-      demo: "https://64583dc68d549b0008b1c42d--splendorous-donut-e614e2.netlify.app/",
+      demo: "https://harmonious-banoffee-75368e.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/blogapp_frontend",
       backendlink:"https://github.com/AyushiPohekar/BlogApp-Backend"
     },
@@ -24,7 +24,7 @@ export const products = [
       img: "/images/hotelbooking.jpg",
       title:"Hotel Booking",
       description:"A MERN stack Hotel booking App,with room reservations.",
-      demo: "https://64556485fb0f680008de2efa--stunning-caramel-832177.netlify.app/",
+      demo: "https://64e692e827e0cb161c36fbc0--comforting-florentine-5bcfa9.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/booking-app",
       backendlink:"https://github.com/AyushiPohekar/bookingapp-backend"
     },
@@ -33,7 +33,7 @@ export const products = [
       img: "/images/Ecommerce.jpg",
       title:"Ecommerce App",
       description:"A MERN stack based Ecommerce App with Admin access and payment intregation.",
-      demo: "https://64582d7a2cf47e0008e6cac4--astonishing-chimera-018646.netlify.app/",
+      demo: "https://dulcet-pegasus-ce7494.netlify.app/",
       frontendlink:"https://github.com/AyushiPohekar/EcommerceFrontend",
       backendlink:"https://github.com/AyushiPohekar/EcommerceBackend"
     },
@@ -43,7 +43,7 @@ export const products = [
       img: "/images/EasyTransport.jpg",
       title:"Easy Transport",
       description:"A MERN stack based app in which a user can login as a manufacturer or transporter.Manufacture can send messages to transporter and Transporter can reply to it.",
-      demo: "https://647c025cc6223162cd4529f7--harmonious-seahorse-f7c126.netlify.app/",
+      demo: "https://64e699d327e0cb195736fcf3--golden-sopapillas-982017.netlify.app/login",
       frontendlink:"https://github.com/AyushiPohekar/webdashboard",
       backendlink:"https://github.com/AyushiPohekar/WebDashboardBackend"
     },
