@@ -38,29 +38,29 @@ export const products = [
       backendlink:"https://github.com/AyushiPohekar/EcommerceBackend"
     },
     
-    {
-      id: 5,
-      img: "/images/EasyTransport.jpg",
-      title:"Easy Transport",
-      description:"A MERN stack based app in which a user can login as a manufacturer or transporter.Manufacture can send messages to transporter and Transporter can reply to it.",
-      demo: "https://64e699d327e0cb195736fcf3--golden-sopapillas-982017.netlify.app/login",
-      frontendlink:"https://github.com/AyushiPohekar/webdashboard",
-      backendlink:"https://github.com/AyushiPohekar/WebDashboardBackend"
-    },
+    // {
+    //   id: 5,
+    //   img: "/images/EasyTransport.jpg",
+    //   title:"Easy Transport",
+    //   description:"A MERN stack based app in which a user can login as a manufacturer or transporter.Manufacture can send messages to transporter and Transporter can reply to it.",
+    //   demo: "https://64e699d327e0cb195736fcf3--golden-sopapillas-982017.netlify.app/login",
+    //   frontendlink:"https://github.com/AyushiPohekar/webdashboard",
+    //   backendlink:"https://github.com/AyushiPohekar/WebDashboardBackend"
+    // },
     
    
   ];
 
   export const productstwo=[
-    {
-      id: 1,
-      img: "/images/spotify.jpg",
-      title:"Spotify",
-      description:"The spotify clone using HTML,CSS,JavaScript.The use of audioElement and eventListener is significant.",
-      demo: "https://genuine-babka-303cd8.netlify.app/",
-      frontendlink:"https://github.com/AyushiPohekar/spotifyclone"
+    // {
+    //   id: 1,
+    //   img: "/images/spotify.jpg",
+    //   title:"Spotify",
+    //   description:"The spotify clone using HTML,CSS,JavaScript.The use of audioElement and eventListener is significant.",
+    //   demo: "https://genuine-babka-303cd8.netlify.app/",
+    //   frontendlink:"https://github.com/AyushiPohekar/spotifyclone"
   
-    },
+    // },
     {
       id: 2,
       img: "/images/weatherapi.jpg",
@@ -79,31 +79,31 @@ export const products = [
       frontendlink:"https://github.com/AyushiPohekar/admin-dashboard"
   
     },
-    {
-      id: 4,
-      img: "/images/DrumKit.jpg",
-      title:"Drum Kit",
-      description:"A HTML,JavaScript,CSS based Drum-Kit",
-      demo: "https://luxury-nougat-fa2e55.netlify.app/",
-      frontendlink:"https://github.com/AyushiPohekar/admin-dashboard"
+    // {
+    //   id: 4,
+    //   img: "/images/DrumKit.jpg",
+    //   title:"Drum Kit",
+    //   description:"A HTML,JavaScript,CSS based Drum-Kit",
+    //   demo: "https://luxury-nougat-fa2e55.netlify.app/",
+    //   frontendlink:"https://github.com/AyushiPohekar/admin-dashboard"
   
-    },
-    {
-      id: 4,
-      img: "/images/usercrud.jpg",
-      title:"React Crud",
-      description:"A React CRUD app with beautiful UI.",
-      demo: "https://cerulean-croissant-bc6d4a.netlify.app/users",
-      frontendlink:"https://github.com/AyushiPohekar/UserCRUD"
+    // },
+    // {
+    //   id: 4,
+    //   img: "/images/usercrud.jpg",
+    //   title:"React Crud",
+    //   description:"A React CRUD app with beautiful UI.",
+    //   demo: "https://cerulean-croissant-bc6d4a.netlify.app/users",
+    //   frontendlink:"https://github.com/AyushiPohekar/UserCRUD"
   
-    },
-    {
-      id: 5,
-      img: "/images/Cropit.jpg",
-      title:"CropIT",
-      description:"A HTML,CSS,Javascript based webpage which allows the user to upload any image.The user can then crop,flip,rotate the image and apply frame like circle,square,rectangle or heart.",
-      demo: "https://relaxed-klepon-76d1f6.netlify.app/",
-      frontendlink:"https://github.com/AyushiPohekar/Celebrate2"
+    // },
+    // {
+    //   id: 5,
+    //   img: "/images/Cropit.jpg",
+    //   title:"CropIT",
+    //   description:"A HTML,CSS,Javascript based webpage which allows the user to upload any image.The user can then crop,flip,rotate the image and apply frame like circle,square,rectangle or heart.",
+    //   demo: "https://relaxed-klepon-76d1f6.netlify.app/",
+    //   frontendlink:"https://github.com/AyushiPohekar/Celebrate2"
   
-    },
+    // },
   ]
